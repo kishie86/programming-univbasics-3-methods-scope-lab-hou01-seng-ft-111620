@@ -17,4 +17,5 @@ end
 def all_phrases
    phrase = "It's-a me, Mario!"
   status = 'Thank You Mario! But Our Princess Is In Another Castle!
+  phrase = "It's Dangerous To Go Alone! Take This."
 end
